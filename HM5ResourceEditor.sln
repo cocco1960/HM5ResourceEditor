@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM5ResourceEditor", "HM5ResourceEditor.csproj", "{D293C38F-E952-4F68-A996-37CDB2C5B406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D293C38F-E952-4F68-A996-37CDB2C5B406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293C38F-E952-4F68-A996-37CDB2C5B406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293C38F-E952-4F68-A996-37CDB2C5B406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293C38F-E952-4F68-A996-37CDB2C5B406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C149FD-6C65-4261-AD7F-8B29A39A5CD7}
+	EndGlobalSection
+EndGlobal
